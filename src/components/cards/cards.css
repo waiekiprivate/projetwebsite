@@ -1,0 +1,33 @@
+
+.divArtiPage{
+    background-color: #1d204b;
+    margin-left: 6%;
+}
+
+.divArtiPage2{
+    background-color: #15273f;
+}
+
+.svgHomeTruck{
+    color: #ffc556 !important;
+}
+
+.modal-body{
+    background-color: #050d34;
+}
+
+
+
+
+
+@media  (min-width: 375px) and (max-width: 425px) {
+    .divInfosplus{
+        width: 19rem !important;
+
+    }
+    .divLivr{
+        margin-right: 20px;
+    }
+
+}
+

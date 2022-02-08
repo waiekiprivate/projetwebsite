@@ -1,0 +1,28 @@
+/* background: white;
+width: 40%;
+margin-bottom: 0; */
+
+
+.divgrecap{
+    background-color: #15273f;
+}
+
+
+.divInDivRecap{
+    background-color: #050d34; 
+}
+
+.divBlueStyleInCard{
+    background-color: #15273f;
+}
+
+
+
+
+
+@media  (min-width: 375px) and (max-width: 992px) {
+    .divG2InP{
+        display: flex;
+        flex-direction: column;
+     } 
+}
